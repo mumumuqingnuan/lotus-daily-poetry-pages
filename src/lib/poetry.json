@@ -1,0 +1,314 @@
+[
+  {
+    "id": 2,
+    "title": "感遇（四首之二）",
+    "author": "張九齡",
+    "lines": [
+      "草木有本心，",
+      "何求美人折？"
+    ],
+    "reading": "兰与桂各有生长的时节。诗人借草木本有的生意，写不必等待他人赏识的心志。",
+    "reflection": "有哪些事情，即使暂时没有人夸奖，我仍愿意认真做？",
+    "theme": "notice",
+    "source": "https://www.gutenberg.org/ebooks/52323"
+  },
+  {
+    "id": 8,
+    "title": "望岳",
+    "author": "杜甫",
+    "lines": [
+      "會當凌絕頂，",
+      "一覽眾山小。"
+    ],
+    "reading": "登临绝顶、远望群山，写的是向上探寻的志气。这份开阔首先来自愿意迈出脚步。",
+    "reflection": "若把目标分小一点，我今天能完成哪一步？",
+    "theme": "step",
+    "source": "https://www.gutenberg.org/ebooks/52323"
+  },
+  {
+    "id": 15,
+    "title": "青谿",
+    "author": "王維",
+    "lines": [
+      "我心素已閒，",
+      "清川澹如此。"
+    ],
+    "reading": "清溪的声音、颜色与流转让心绪慢慢安静。读到这里，可以把注意力放回眼前。",
+    "reflection": "我能暂时放下一件什么事，给自己留出片刻空白？",
+    "theme": "pause",
+    "source": "https://www.gutenberg.org/ebooks/52323"
+  },
+  {
+    "id": 16,
+    "title": "渭川田家",
+    "author": "王維",
+    "lines": [
+      "田夫荷鋤立，",
+      "相見語依依。"
+    ],
+    "reading": "田间的人们停下来相互交谈。普通日常中的这一幕，写出了人与人相处的亲切。",
+    "reflection": "最近有谁，我愿意认真听他说几句话？",
+    "theme": "connect",
+    "source": "https://www.gutenberg.org/ebooks/52323"
+  },
+  {
+    "id": 91,
+    "title": "望月懷遠",
+    "author": "張九齡",
+    "lines": [
+      "海上生明月，",
+      "天涯共此時。"
+    ],
+    "reading": "远隔天涯的人共享一轮明月。开篇将辽阔的景象与细微的思念放在一起。",
+    "reflection": "我想念的是哪个人，或哪一段平常的相处？",
+    "theme": "connect",
+    "source": "https://www.gutenberg.org/ebooks/52323"
+  },
+  {
+    "id": 92,
+    "title": "送杜少府之任蜀川",
+    "author": "王勃",
+    "lines": [
+      "海內存知己，",
+      "天涯若比鄰。"
+    ],
+    "reading": "离别中的宽慰来自知己之情。距离改变了见面的方式，仍可以留住彼此的关心。",
+    "reflection": "怎样的一次联系，会让对方知道我还惦记着他？",
+    "theme": "connect",
+    "source": "https://www.gutenberg.org/ebooks/52323"
+  },
+  {
+    "id": 97,
+    "title": "次北固山下",
+    "author": "王灣",
+    "lines": [
+      "潮平兩岸闊，",
+      "風正一帆懸。"
+    ],
+    "reading": "潮平、岸阔、帆正，一起构成舒展的行舟景象。诗句把前行写得平稳而开阔。",
+    "reflection": "为了让眼前的事顺畅一点，还需要确认什么条件？",
+    "theme": "step",
+    "source": "https://www.gutenberg.org/ebooks/52323"
+  },
+  {
+    "id": 116,
+    "title": "山居秋暝",
+    "author": "王維",
+    "lines": [
+      "明月松間照，",
+      "清泉石上流。"
+    ],
+    "reading": "月光穿过松林，清泉流过石头。一静一动，都是雨后山间可细细观察的景物。",
+    "reflection": "今天有没有一个声音或画面，值得多停留几秒？",
+    "theme": "notice",
+    "source": "https://www.gutenberg.org/ebooks/52323"
+  },
+  {
+    "id": 123,
+    "title": "終南別業",
+    "author": "王維",
+    "lines": [
+      "行到水窮處，",
+      "坐看雲起時。"
+    ],
+    "reading": "行到流水尽处便坐下看云。诗中的从容，是让步行与停驻都成为游山的一部分。",
+    "reflection": "当一条路暂时走不通时，我还有哪些现实选择？",
+    "theme": "pause",
+    "source": "https://www.gutenberg.org/ebooks/52323"
+  },
+  {
+    "id": 128,
+    "title": "過故人莊",
+    "author": "孟浩然",
+    "lines": [
+      "綠樹村邊合，",
+      "青山郭外斜。"
+    ],
+    "reading": "绿树环绕村落，青山在城外展开。开阔而亲切的景物，为一场朋友相聚铺开背景。",
+    "reflection": "怎样的地方或相处方式，会让我感到自在？",
+    "theme": "connect",
+    "source": "https://www.gutenberg.org/ebooks/52323"
+  },
+  {
+    "id": 224,
+    "title": "鹿柴",
+    "author": "王維",
+    "lines": [
+      "返景入深林，",
+      "復照青苔上。"
+    ],
+    "reading": "夕阳的返照深入树林，落在青苔上。微小的光影，让空山的寂静也有了层次。",
+    "reflection": "我是否忽略了某个很小、但确实存在的进展？",
+    "theme": "notice",
+    "source": "https://www.gutenberg.org/ebooks/52323"
+  },
+  {
+    "id": 225,
+    "title": "竹里館",
+    "author": "王維",
+    "lines": [
+      "獨坐幽篁裡，",
+      "彈琴復長嘯；"
+    ],
+    "reading": "独坐竹林，弹琴长啸，诗人写下了属于自己的声音与空间。独处也可以有丰富的内容。",
+    "reflection": "如果有十分钟完全属于自己，我想怎样度过？",
+    "theme": "pause",
+    "source": "https://www.gutenberg.org/ebooks/52323"
+  },
+  {
+    "id": 227,
+    "title": "相思",
+    "author": "王維",
+    "lines": [
+      "願君多采擷，",
+      "此物最相思。"
+    ],
+    "reading": "红豆成为寄托思念的物件。诗中的惦念没有长篇解释，而落在一件具体的小东西上。",
+    "reflection": "有什么小物件，让我想起一位在意的人？",
+    "theme": "connect",
+    "source": "https://www.gutenberg.org/ebooks/52323"
+  },
+  {
+    "id": 228,
+    "title": "雜詩",
+    "author": "王維",
+    "lines": [
+      "來日綺窗前，",
+      "寒梅著花未？"
+    ],
+    "reading": "问故乡的消息，最后只问窗前寒梅是否开花。一个很小的问题里，装着熟悉与牵挂。",
+    "reflection": "哪一件看似很小的事，其实对我很重要？",
+    "theme": "notice",
+    "source": "https://www.gutenberg.org/ebooks/52323"
+  },
+  {
+    "id": 231,
+    "title": "宿建德江",
+    "author": "孟浩然",
+    "lines": [
+      "野曠天低樹，",
+      "江清月近人。"
+    ],
+    "reading": "旷野中的天似乎低近树梢，清江上的月影靠近旅人。景物也承接了暮色中的心绪。",
+    "reflection": "我现在真正需要的是解决问题，还是先歇一会儿？",
+    "theme": "pause",
+    "source": "https://www.gutenberg.org/ebooks/52323"
+  },
+  {
+    "id": 232,
+    "title": "春曉",
+    "author": "孟浩然",
+    "lines": [
+      "春眠不覺曉，",
+      "處處聞啼鳥。"
+    ],
+    "reading": "春日醒来，先听见四周鸟鸣。熟悉的日常因一次认真倾听而显得鲜活。",
+    "reflection": "今天开始时，我注意到了什么平时没留意的细节？",
+    "theme": "notice",
+    "source": "https://www.gutenberg.org/ebooks/52323"
+  },
+  {
+    "id": 236,
+    "title": "登鸛雀樓",
+    "author": "王之渙",
+    "lines": [
+      "欲窮千里目，",
+      "更上一層樓。"
+    ],
+    "reading": "想看得更远，就再登一层楼。诗句从眼前景象写到行动，也提醒人换一个观察的位置。",
+    "reflection": "为看清这个问题，我还可以多了解哪一条信息？",
+    "theme": "step",
+    "source": "https://www.gutenberg.org/ebooks/52323"
+  },
+  {
+    "id": 240,
+    "title": "秋夜寄邱員外",
+    "author": "韋應物",
+    "lines": [
+      "懷君屬秋夜，",
+      "散步詠涼天。"
+    ],
+    "reading": "秋夜散步时想起朋友，随口吟咏清凉的天气。关心有时就在这样一个自然的念头里。",
+    "reflection": "有没有一句简单的问候，我一直想说却还没说？",
+    "theme": "connect",
+    "source": "https://www.gutenberg.org/ebooks/52323"
+  },
+  {
+    "id": 244,
+    "title": "江雪",
+    "author": "柳宗元",
+    "lines": [
+      "孤舟簑笠翁，",
+      "獨釣寒江雪。"
+    ],
+    "reading": "辽阔雪景中，一叶孤舟、一位钓者格外鲜明。诗的冷寂与人物的专注形成强烈对照。",
+    "reflection": "哪些事值得保留专注，哪些只是周围的干扰？",
+    "theme": "pause",
+    "source": "https://www.gutenberg.org/ebooks/52323"
+  },
+  {
+    "id": 246,
+    "title": "問劉十九",
+    "author": "白居易",
+    "lines": [
+      "晚來天欲雪，",
+      "能飲一杯無？"
+    ],
+    "reading": "天气将雪，诗人向朋友发出一句平常的邀请。温暖来自具体的陪伴，也来自愿意开口。",
+    "reflection": "最近一次轻松的相聚是什么时候？我还想见谁？",
+    "theme": "connect",
+    "source": "https://www.gutenberg.org/ebooks/52323"
+  },
+  {
+    "id": 248,
+    "title": "登樂遊原",
+    "author": "李商隱",
+    "lines": [
+      "夕陽無限好，",
+      "只是近黃昏。"
+    ],
+    "reading": "夕阳之美与时间流逝同时进入诗中。这两句留下的是对眼前景色的珍惜与感触。",
+    "reflection": "眼前有什么值得珍惜，而我总想着以后再说？",
+    "theme": "notice",
+    "source": "https://www.gutenberg.org/ebooks/52323"
+  },
+  {
+    "id": 249,
+    "title": "尋隱者不遇",
+    "author": "賈島",
+    "lines": [
+      "只在此山中，",
+      "雲深不知處？"
+    ],
+    "reading": "来访者只知道人正在山中，云雾遮住了去处。未能寻到的留白，也构成诗的趣味。",
+    "reflection": "现在有哪些信息仍然未知，需要直接确认？",
+    "theme": "step",
+    "source": "https://www.gutenberg.org/ebooks/52323"
+  },
+  {
+    "id": 261,
+    "title": "回鄉偶書",
+    "author": "賀知章",
+    "lines": [
+      "兒童相見不相識，",
+      "笑問客從何處來？"
+    ],
+    "reading": "孩子把回乡的人当作客人，轻轻一问，写出了岁月带来的变化与重逢时的复杂感受。",
+    "reflection": "面对变化，我想保留的熟悉感是什么？",
+    "theme": "connect",
+    "source": "https://www.gutenberg.org/ebooks/52323"
+  },
+  {
+    "id": 272,
+    "title": "滁州西澗",
+    "author": "韋應物",
+    "lines": [
+      "獨憐幽草澗邊生，",
+      "上有黃鸝深樹鳴。"
+    ],
+    "reading": "幽草生在涧边，黄鹂鸣于树间。诗人先看见不显眼的草，又听见高处的鸟声。",
+    "reflection": "今天我愿意把注意力分给哪件不起眼的小事？",
+    "theme": "notice",
+    "source": "https://www.gutenberg.org/ebooks/52323"
+  }
+]
